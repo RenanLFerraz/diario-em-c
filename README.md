@@ -4,7 +4,7 @@ Este é um projeto de um diário desenvolvido em C. O objetivo é criar uma apli
 
 ## Funcionalidades
 
-- **Armazenamento em árvore binária** para facilitar a busca por datas e entradas.
+- **Armazenamento em árvore não binária** para facilitar a busca por datas e entradas.
 - **Banco de dados SQLite** para armazenar as escritas do diário.
 - **Sistema de segurança** com chave para garantir a privacidade das entradas.
 
