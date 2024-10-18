@@ -15,3 +15,5 @@ Este é um projeto de um diário desenvolvido em C. O objetivo é criar uma apli
   - **Buscar data** Realizar busca pela data especifica.
 - **Excluir Nota** Remover alguma anotação de acordo com a data de remoção.
 - **Sair**
+
+![image](https://github.com/user-attachments/assets/4ad3a0ed-df88-4c87-a698-7b1a50ad9268)
