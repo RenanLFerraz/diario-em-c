@@ -26,7 +26,7 @@ Este é um projeto de um diário desenvolvido em C. O objetivo é criar uma apli
 - Incluída verificação para impedir datas retroativas.
 - Melhorias no fluxo de interação com o usuário.
 
-![image](https://github.com/user-attachments/assets/0cfcfcd7-d52d-4493-9339-b53101e98777)
+![image](https://github.com/user-attachments/assets/6e7fdeb8-ee32-4d64-aa6b-7c82d5eadde1)
 
 # Planos
 
